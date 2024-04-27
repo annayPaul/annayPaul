@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Annay</h1>
 <h3 align="center">I care about your frontend more than you</h3>
-<iframe src="https://giphy.com/embed/Fbox1ygIqnga5dLinz" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/trippy-abstract-pi-slices-Fbox1ygIqnga5dLinz">via GIPHY</a></p>
+<img align="right" alt="Galaxy" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3l0NWpsNTd3azcyZ2MxbnZtbXRyZ3ZhN3BzZ3R3ZzA2ZHV3eDAzeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Fbox1ygIqnga5dLinz/giphy-downsized-large.gif" />
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=annaypaul" alt="annaypaul" /></a> </p>
 
 - 🌱 I’m currently learning **NextJs,React Native**
